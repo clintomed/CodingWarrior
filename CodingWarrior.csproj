@@ -104,6 +104,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="JSON\BaseArena.js" />
+    <Content Include="JSON\BrickArena1TexMap1024.png" />
     <Content Include="JSON\GrassTexture1024.png" />
     <Content Include="JSON\SimpleField.js" />
     <Content Include="packages.config" />
